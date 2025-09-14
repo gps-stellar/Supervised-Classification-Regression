@@ -92,16 +92,7 @@ Built pipelines including:
 
 * Extend approach to red wine dataset for comparative study.
 
-------------------------------------------------------------------------------------------------------------------------
-
-### 📂 Repository Structure
-
-├── data/                  # Dataset (if included or linked)  
-├── notebooks/             # Jupyter notebooks with experiments
-├── README.md              # Project overview  
-└── requirements.txt       # Dependencies  
-
-------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------
 
 ### 📑 References
 
