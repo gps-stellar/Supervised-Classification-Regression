@@ -95,11 +95,9 @@ Built pipelines including:
 ------------------------------------------------------------------------------------------------------------------------
 
 ### 📂 Repository Structure
-bash
 
 ├── data/                  # Dataset (if included or linked)  
-├── notebooks/             # Jupyter notebooks with experiments  
-├── plots/                 # Saved figures and evaluation plots  
+├── notebooks/             # Jupyter notebooks with experiments
 ├── README.md              # Project overview  
 └── requirements.txt       # Dependencies  
 
